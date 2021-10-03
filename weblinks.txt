@@ -1,0 +1,15 @@
+https://www.baryudin.com/blog/entry/sending-outlook-appointments-python/
+
+https://stackoverflow.com/questions/4823574/sending-meeting-invitations-with-python
+
+https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/
+
+https://realpython.com/python-send-email/
+
+https://icalendar.readthedocs.io/en/latest/usage.html
+
+https://www.kdnuggets.com/2019/06/how-use-datetime.html
+
+https://realpython.com/python-main-function/
+
+https://github.com/canst/MeetingInvitationWithPython.git
